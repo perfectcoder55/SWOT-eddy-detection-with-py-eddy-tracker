@@ -1,1 +1,1 @@
-# SWOT-Eddy-finding-with-py-eddy-tracker
+# SWOT-eddy-detection-with-py-eddy-tracker
